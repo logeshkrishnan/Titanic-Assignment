@@ -30,25 +30,25 @@ No of records in test dataset:418
 
 1.Survived: Survived Column indicates whether the person survived or not 0-dead 1-survived
 
-2.P Class:PClass Column indicates what class the passgenger was travelling Passenger Class: 1st,
+2.P Class: PClass Column indicates what class the passgenger was travelling Passenger Class: 1st,
 2nd, 3rd
 
-3.Name:This column name of the passenger.It comes with titles like Mr,Dr which will help us
+3.Name: This column name of the passenger.It comes with titles like Mr,Dr which will help us
 group the people.
 
 4.Sex: Sex indicates the sex of the passenger (M/F)
 
-5.Age:Age indicates the age of the person.Totally there is 99 unique ages recorded.
+5.Age: Age indicates the age of the person.Totally there is 99 unique ages recorded.
 
-6.SibSp:It Indicates Number of siblings/spouses aboard
+6.SibSp: It Indicates Number of siblings/spouses aboard
 
-7.Parch:It indicates Number of parents/children aboard
+7.Parch: It indicates Number of parents/children aboard
 
-8.Ticket Number:It gives the info on the ticket will help us to group families
+8.Ticket Number: It gives the info on the ticket will help us to group families
 
-9.Fare:It gives the info on the ticket fare
+9.Fare: It gives the info on the ticket fare
 
-10.Cabin:It gives info on which cabin the passanger was staying
+10.Cabin: t gives info on which cabin the passanger was staying
 
 11.Embarked: Place where the passenger embarked their journey. One of Cherbourg,
 Queenstown or SouthamptonData Organization
